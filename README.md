@@ -2,6 +2,7 @@
 <h3 align="center">back-end developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=convitnhodev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=convitnhodev)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **OPSWAT**
 
