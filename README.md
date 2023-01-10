@@ -17,7 +17,7 @@
 ## 💻 Tech Stack:
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,go,rust,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,rust,cpp)](https://skillicons.dev?style=for-the-badge&logo=Squirrel&logoColor=black)
 
 
 
