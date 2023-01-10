@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thai Nguyen Viet Hung</h1>
 <h3 align="center">back-end developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=convitnhodev)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=convitnhodev)
 
 - 🔭 I’m currently working on **OPSWAT**
 
