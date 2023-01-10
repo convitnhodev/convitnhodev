@@ -14,6 +14,28 @@
 
 - 📫 How to reach me **hungthai10a1@gmail.com**
 
+## 📊 Current GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=convitnhodev&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=convitnhodev&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## GitHub Streaks 🔥
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=convitnhodev&theme=onedark&hide_border=true)<br/>
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=convitnhodev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=convitnhodev&theme=onedark&hide_border=true&layout=compact&langs_count=10)
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/convitnhodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/convitnhodev/" height="30" width="40" /></a>
