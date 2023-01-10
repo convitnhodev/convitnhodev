@@ -17,8 +17,7 @@
 ## 📊 Current GitHub Stats
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=convitnhodev&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=convitnhodev&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## GitHub Streaks 🔥
 
