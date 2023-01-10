@@ -17,7 +17,7 @@
 ## 💻 Tech Stack:
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,rust,cpp)](https://skillicons.dev)
 
 
 
