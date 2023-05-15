@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/convitnhodev?tab=repositories](https://github.com/convitnhodev?tab=repositories)
 
-- 💬 Ask me about **Golang, Python, C++, Rust**
+- 💬 Ask me about **Golang, Python, Rust**
 
 - 📫 How to reach me **hungthai10a1@gmail.com**
 
@@ -32,12 +32,6 @@
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=convitnhodev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 
 
